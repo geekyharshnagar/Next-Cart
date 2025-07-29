@@ -1,0 +1,5 @@
+<svg width="220" height="60" viewBox="0 0 500 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="120" rx="20" fill="#1E40AF"/>
+  <text x="120" y="75" font-size="48" font-family="Arial, sans-serif" fill="white" font-weight="bold">NextCart</text>
+  <path d="M60 30h30l10 40H70l-10-40zm10 50a5 5 0 1 0 0.001 10.001A5 5 0 0 0 70 80zm20 0a5 5 0 1 0 0.001 10.001A5 5 0 0 0 90 80z" fill="#FACC15"/>
+</svg>
